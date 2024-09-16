@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345844364423",
+    "project_id": "ezpedalproject",
+    "storage_bucket": "ezpedalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345844364423:android:0b8cea29467b11ce0af422",
+        "android_client_info": {
+          "package_name": "com.example.ezpedal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoI6morZ7uwYuJTH9u67b-L9bL8NzT-YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
